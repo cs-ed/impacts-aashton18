@@ -32,7 +32,7 @@ With the primary unit focus of building multi-page websites, student teams will 
   - Day 2 - Your True Self
   - Day 3 - Authenticity
 - Resources:
-  - At Your Finger Tips Documentary (60 minutes)
+  - [At Your Finger Tips Documentary](https://roadtripnation.com/roadtrip/computer-science-documentary) (60 minutes)
   - Viewing Guide
 ### Lesson 2 - Computer Science & Classroom Representation 
 - Lesson Objective - Students will calculate and visually represent data of selected populations within the classroom and computer science industry.
