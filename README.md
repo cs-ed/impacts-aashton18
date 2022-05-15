@@ -21,6 +21,7 @@ Classroom discussion on the impacts of computing within society will be integrat
 With the primary unit focus of building multi-page websites, student teams will develop HTML and CSS skills while simultaneously researching careers fields within the technology sector.  Each student on the team will select a different career field and create a webpage showcasing information for that role per rubric criteria.  Student teams will then link their separate websites together to serve as a resource website, thereby meeting the main objective of Unit 2, Chapter 2, while completing the secondary purpose of learning about computer science career opportunities. Students will explore their selected computer science career path, research the current and projected labor needs for that profession, the current demographic make-up, and reflect on the potential barriers to entry for various ethnic/social-economic groups.
 
 ## Unit Learning Objectives & Activities
+
 ### Lesson 1 - “At Your Fingertips” Documentary
 - Lesson Objective - Students will be able to explore opportunities within the computer science industry.
 - CA CTE Information and Communication Technologies
@@ -34,15 +35,8 @@ With the primary unit focus of building multi-page websites, student teams will 
 - Resources:
   - [At Your Finger Tips Documentary](https://roadtripnation.com/roadtrip/computer-science-documentary) (60 minutes)
   - Viewing Guide
-### Lesson 2 - Computer Science & Classroom Representation 
-- Lesson Objective - Students will calculate and visually represent data of selected populations within the classroom and computer science industry.
-- CA CCSS MATH 6-8.SP.1-5 - Develop an understanding of statical variability; Summarize and describe distributions
-- Activities - Using data collected from a Google Form from all three Intro to Computer Science classes and information from the most current school site SARC report, students will summarize findings. First, student pairs will calculate the percentage of representation for identified gender and ethnic groups from the class and within the school.  Using additional teacher-provided resources, they will then calculate rates found in the computer science industry.  Student pairs will then visually represent the data, comparing percentages found within the class as a percentage of the school population to those represented in the computer science industry compared to a whole of the US population.  Students pairs will present their findings to the class. Finally, a whole group discussion will be used to discuss similarities and differences found between the computer science class representations and that of the computer science industry. Data analysis collected from this lesson will be later incorporated into the main page of each team’s website.
-- Pacing - 1 Day
-- Resources:
-  - Classroom survey (Google Form)
-  - School SARC report
-### Lesson 3 - Websites for a Purpose
+
+### Lesson 2 - Websites for a Purpose
 - Lesson Objective - Students will be able to identify reasons for website creation.
 - CSTA K-12 Computer Science Standard:
   - 2-IC-20 - Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options.
@@ -54,7 +48,8 @@ This activity will help formulate the foundational purpose of their team’s web
     - What impact does the creator want the website to have?
 - Pacing - 1 day
 - Resources - Code.org CSD Unit 2, Lesson 14
-### Lesson 4 - Team Problem Solving
+
+### Lesson 3 - Team Problem Solving
 - Lesson Objective - Students will be able to collaborate with classmates in planning a multi-link website that addresses a specific topic.
 - CSTA K-12 Computer Science Standards:
   - 2-AP-15 - Seek and incorporate feedback from team members and users to refine a solution that meets user needs.
@@ -65,7 +60,8 @@ This activity will help formulate the foundational purpose of their team’s web
 - Activities - Students will discuss strategies for successfully working together as a team.  Group norms and roles will be established, and website tasks and deadlines will be divided for the end of unit project completion.
 - Pacing - 1 day
 - Resources - Code.org CSD Unit 2, Lesson 15
-### Lesson 5 - Sources and Research
+
+### Lesson 4 - Sources and Research
 - Lesson Objective - Students will be able to find relevant, trustworthy information online.
 - CSTA K-12 Computer Science Standards:
   - 2-IC-20 - Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options.
@@ -76,7 +72,8 @@ This activity will help formulate the foundational purpose of their team’s web
   - Day 1 - Identifying and collecting reliant websites
   - Day 2 - Researching selected career field
 - Resources - Code.org CSD Unit 2, Lesson 16
-### Lesson 6 - CSS Classes
+
+### Lesson 5 - CSS Classes
 - Lesson Objective - Students will control the style of their website by utilizing classes and IDs within CSS.
 - CSTA K-12 Computer Science Standards:
   - 2-AP-16 - Incorporate existing code, media, and libraries into original programs, and give attribution.
@@ -85,7 +82,8 @@ This activity will help formulate the foundational purpose of their team’s web
 - Activities - Students will complete the online lesson on Code Studio.
 - Pacing - 1 day
 - Resources - Code.org CSD Unit 2, Lesson 17
-### Lesson 7 - Planning a Multi-Page Site
+
+### Lesson 6 - Planning a Multi-Page Site
 - Lesson Objective - Students will be able to decompose a large project into multiple tasks and assign roles to specific group members.
 - CSTA K-12 Computer Science Standards:
   - 1B-AP-11 - Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.
@@ -102,7 +100,8 @@ This activity will help formulate the foundational purpose of their team’s web
   - Day 1 - Class review of project & small group brainstorming
   - Day 2 - Site design planning & finding images
 - Resources - Code.org CSD Unit 2, Lesson 18
-### Lesson 8 - Linking Pages
+
+### Lesson 7 - Linking Pages
 - Lesson Objective - Students will link multiple web pages using HTML.
 - CSTA K-12 Computer Science Standards:
   - 1B-AP-12 - Modify, remix or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.
@@ -114,7 +113,8 @@ This activity will help formulate the foundational purpose of their team’s web
 - Activities - Students will learn how to link web pages by completing the online lesson on Web Lab.  Teams will then plan how their website will be navigated through the use of links. 
 - Pacing - 2 days
 - Resources - Code.org CSD Unit 2, Lesson 19
-### Lesson 9 - Project: Website for a Purpose
+
+### Lesson 8 - Project: Website for a Purpose
 - Lesson Objective - Students will be able to create a digital artifact to showcase their research findings.
 - CSTA K-12 Computer Science Standards:
   - 2-AP-15 - Seek and incorporate feedback from team members and users to refine a solution that meets user needs.
@@ -122,10 +122,11 @@ This activity will help formulate the foundational purpose of their team’s web
   - 2-AP-17 - Systematically test and refine programs using a range of test cases.
   - 2-AP-18 - Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.
   - 2-AP-19 - Document programs in order to make them easier to follow, test, and debug.
-- Activities - Using the project guide, team timeline, and group division of tasks, students will begin to code their website.  Students will initially complete their websites for their selected career field.  They will then focus on creating the main homepage, incorporating reflections from the documentary film and data analysis collected on representation earlier on in the unit.  Teams will then link their website together to formulate a unified website addressing all final project criteria, including proper use of HTML and CSS concepts.
+- Activities - Using the project guide, team timeline, and group division of tasks, students will begin to code their website.  Students will initially complete their websites for their selected career field.  They will then focus on creating the main homepage, incorporating reflections from the documentary film completed during lesson 1 in the unit.  Teams will then link their website together to formulate a unified website addressing all final project criteria, including proper use of HTML and CSS concepts.
 - Pacing - 5 days
 - Resources - Code.org CSD, Unit 2, Lesson 20
-### Lesson 10 - Peer Review and Final Touches
+
+### Lesson 9 - Peer Review and Final Touches
 - Lesson Objective - Students will be able to provide and receive feedback from their peers to give the finishing touches to a multi-link website.
 - CSTA K-12 Computer Science Standards:
   - 2-AP-15 - Seek and incorporate feedback from team members and users to refine a solution that meets user needs.
@@ -140,10 +141,10 @@ This activity will help formulate the foundational purpose of their team’s web
 - Resources - Code.org CSD Unit 2, Lesson 21
 
 ## Assessment
-Students will be assessed using three tiers.  The first tier will be a team member’s self-assessment of their group project, their website of a selected computer science career field, and their contribution to their team.  The second tier of assessment will be team members' assessment of each other’s contribution to the group project and their ability to work together.  The teacher will conduct the final evaluation.  A final project rubric will be used to assess each team’s website.  The rubric criteria will evaluate groups based on having a specific website purpose, accurate data and reflective commentary of population representations within the computer science industry, a clear understanding of a career field within the tech sector, proper HTML & CSS syntax, code readability, website style, and citation use.
+Students will be assessed using three tiers.  The first tier will be a team member’s self-assessment of their group project, their website of a selected computer science career field, and their contribution to their team.  The second tier of assessment will be team members' assessment of each other’s contribution to the group project and their ability to work together.  The teacher will conduct the final evaluation.  A final project rubric will be used to assess each team’s website.  The rubric criteria will evaluate groups based on having a specific website purpose, reflective commentary of current representation within the computer science industry, a clear understanding of a career field within the tech sector, proper HTML & CSS syntax, code readability, website style, and citation use.
 
 ## Outcomes
-During this unit, students will have the opportunity to learn about different career fields within the computer science industry that could potentially spark their interest in their future studies. In addition, students will have the opportunity to explore some of the current and potential obstacles to entry into these career fields towards identified population groups. Finally, using data from within their computer classroom to that of the school, students will be able to identify existing gaps in representation at the local level.  Exposing students to these concerning trends while simultaneously presenting the enormous opportunity potentially awaiting them in this career field may, hopefully, start to support a positive rise of a more diverse representation within the computer science industry in the years ahead.
+During this unit, students will have the opportunity to learn about different career fields within the computer science industry that could potentially spark their interest in their future studies. In addition, students will have the opportunity to explore some of the current and potential obstacles to entry into these career fields towards identified population groups. Upon completion of this unit, students should understand the enormous opportunity awaiting them in this career field while identifying some challenges they may face.  This exposure will, hopefully, start to support a positive rise of a more diverse representation within the computer science industry for future years ahead.
 
 ## References
 At Your Fingertips [Film]. (2022). Roadtrip Nation. https://roadtripnation.com/roadtrip/computer-science-documentary
